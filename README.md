@@ -1,2 +1,4 @@
 # Fragrance Recommendation System
-Developed a Streamlit web app for real-time, personalized fragrance recommendations using FAISS-based semantic search and customizable user filters.
+Author: Habeeb Kotun Jr.
+Affiliation: School of Applied Computational Sciences, Meharry Medical College
+Email: hkotun24@mmc.edu
