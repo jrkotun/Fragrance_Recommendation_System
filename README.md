@@ -28,7 +28,7 @@ Check out the deployed app on Hugging Face Spaces:
 ## Dataset
 Utilized a publicly available dataset from Kaggle that was originally scraped from Fragrantica.com and contains information on over 24,000 fragrances.
 Dataset includes the following information for each fragrance:
-- Fragrance name, brand, country, release year
+- Fragrance name, house, country, release year
 - Gender classification
 - Ratings and review count
 - Note pyramid (top, middle, base)
