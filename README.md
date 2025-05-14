@@ -4,7 +4,7 @@
 - Email: hkotun24@mmc.edu
 
 ## Project Overview
-The Fragrance Recommendation System is a Streamlit-based web application that delivers real-time, personalized fragrance suggestions based on user input. It employs a Retrieval-Augmented Generation (RAG) approach by combining FAISS indexing and LLM-generated explanations via Ollama. The system uses cosine similarity to find the most relevant fragrance entries based on user queries, retrieves them efficiently with FAISS, and then enahcnces the results with human-readable rationales. This approach helps users navigate the complex world of perfumes with tailored recommendations and interpretable insights.
+The Fragrance Recommendation System is a Streamlit-based web application that delivers real-time, personalized fragrance suggestions based on user input. It employs a Retrieval-Augmented Generation (RAG) approach by combining FAISS indexing and LLM-generated explanations via Ollama. The system uses cosine similarity to find the most relevant fragrance entries based on user queries, retrieves them efficiently with FAISS, and then enhacnces the results with human-readable rationales. This approach helps users navigate the complex world of perfumes with tailored recommendations and interpretable insights.
 
 ## Live Demo
 Check out the deployed app on Hugging Face Spaces:
