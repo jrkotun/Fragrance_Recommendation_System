@@ -11,7 +11,7 @@ User queries and fragrance profiles are represented as vectors; cosine similarit
 This approach empowers users to navigate the complex world of perfumes with personalized, explainable recommendations.
 
 ## Live Demo
-Check out the deployed app on Hugging Face Spaces:
+Check out the deployed app on Hugging Face Spaces: https://huggingface.co/spaces/jrkotun/Fragrance-Recommendation-System
 
 ## Key Features
 - Natural language search: Enter your preferences like "fresh scent for springtime" or "dark, woody scent for evening wear" or a more complex query.
